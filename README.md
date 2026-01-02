@@ -24,3 +24,17 @@ This project was built to understand:
 ## Notes
 This project is a foundation step before converting the same design
 into a Spring Boot REST API.
+
+## How to Run
+
+### Prerequisites
+- Java JDK 17 or higher
+- Git (optional, if cloning the repo)
+
+### Compile from source
+From the project root directory:
+
+```bash
+javac -d bin src/*.java
+
+
